@@ -1,0 +1,13 @@
+{
+  "name": "super-decider",
+  "version": "0.1.0",
+  "description": "Build features on Super Decider: typed decisions with calibrated probabilities, Jev-compatible API.",
+  "author": {
+    "name": "Singularity Compute",
+    "url": "https://singularitycompute.com"
+  },
+  "homepage": "https://github.com/Singularity-Compute/super-decider",
+  "repository": "https://github.com/Singularity-Compute/skills",
+  "license": "Apache-2.0",
+  "keywords": ["decision-model", "classification", "routing", "guardrails", "jev", "system-one"]
+}

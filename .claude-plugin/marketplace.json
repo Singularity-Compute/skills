@@ -1,0 +1,15 @@
+{
+  "name": "singularity-compute",
+  "description": "Agent skills from Singularity Compute.",
+  "owner": {
+    "name": "Singularity Compute",
+    "url": "https://singularitycompute.com"
+  },
+  "plugins": [
+    {
+      "name": "super-decider",
+      "description": "Design and build Super Decider decisions: question design, API reference, patterns and runnable examples",
+      "source": "./"
+    }
+  ]
+}
